@@ -25,6 +25,12 @@
         <mxCell id="T-8RqrycPsFx3zOEHQUL-7" value="" style="line;strokeWidth=1;rotatable=0;dashed=0;labelPosition=right;align=left;verticalAlign=bottom;spacingTop=0;spacingLeft=6;points=[];portConstraint=eastwest;" vertex="1" parent="1">
           <mxGeometry x="-19.5" y="-19" width="77" height="10" as="geometry" />
         </mxCell>
+        <mxCell id="T-8RqrycPsFx3zOEHQUL-20" value="Entity" style="swimlane;childLayout=stackLayout;horizontal=1;startSize=50;horizontalStack=0;rounded=1;fontSize=14;fontStyle=0;strokeWidth=2;resizeParent=0;resizeLast=1;shadow=0;dashed=0;align=center;arcSize=4;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="351" y="-255" width="160" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="T-8RqrycPsFx3zOEHQUL-21" value="+Attribute1&#xa;+Attribute2&#xa;+Attribute3" style="align=left;strokeColor=none;fillColor=none;spacingLeft=4;fontSize=12;verticalAlign=top;resizable=0;rotatable=0;part=1;html=1;" vertex="1" parent="T-8RqrycPsFx3zOEHQUL-20">
+          <mxGeometry y="50" width="160" height="70" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
