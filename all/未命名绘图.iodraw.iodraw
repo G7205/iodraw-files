@@ -16,13 +16,8 @@
         <mxCell id="T-8RqrycPsFx3zOEHQUL-9" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;乐队&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="167" y="-61" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="T-8RqrycPsFx3zOEHQUL-15" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" target="T-8RqrycPsFx3zOEHQUL-9">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="165" y="-31" as="sourcePoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="T-8RqrycPsFx3zOEHQUL-17" value="" style="line;strokeWidth=1;rotatable=0;dashed=0;labelPosition=right;align=left;verticalAlign=middle;spacingTop=0;spacingLeft=6;points=[];portConstraint=eastwest;" vertex="1" parent="1">
-          <mxGeometry x="91" y="53" width="60" height="10" as="geometry" />
+          <mxGeometry x="107" y="-36" width="60" height="10" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
